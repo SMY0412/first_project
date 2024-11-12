@@ -6,4 +6,4 @@ This is my project
 ## Author
 * SMY
 * smy
-* Shen
+* Smy
